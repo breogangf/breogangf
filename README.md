@@ -34,7 +34,7 @@
 ### Github Stats
 <img align="left" alt="breogangf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=breogangf&show_icons=true&hide_border=true&hide_title=true" />
 
-<img align="left" alt="breogangf's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breogangf&layout=compact&hide_border=true&hide_title=true" />
+<img align="left" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breogangf&layout=compact&hide_border=true&hide_title=true" />
 
 [website]: https://breogangf.com
 [twitter]: https://twitter.com/breogangf
