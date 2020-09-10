@@ -36,7 +36,7 @@
 <br />
 
 ### Github Stats
-<img align="left" alt="breogangf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=breogangf&show_icons=true&hide_border=true" />
+<img align="left" alt="breogangf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=breogangf&show_icons=true&hide_border=true&title_color=000000" />
 
 [website]: https://breogangf.com
 [twitter]: https://twitter.com/breogangf
