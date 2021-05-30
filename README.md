@@ -8,7 +8,7 @@
 - 🔭 I’m currently working as a Tech Lead @ Zara.com.
 - 🌱 I’m currently learning generative design and advanced pcb design.
 - 👯 I’m looking to collaborate with other makers and geek content creators.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 
 ### Connect with me:
 
