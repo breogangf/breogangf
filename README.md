@@ -6,9 +6,9 @@
 ## I'm a Maker, Engineer, Geek and Sports Lover!
 
 - 🔭 I’m currently working as a Tech Lead @ Zara.com.
-- 🌱 I’m currently learning generative design and advanced pcb design.
+- 🌱 I’m currently learning digital product design and advanced pcb design.
 - 👯 I’m looking to collaborate with other makers and geek content creators.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2023 Goals: Launch a mass production product.
 
 ### Connect with me:
 
